@@ -32,6 +32,10 @@ fp-info-cache
 *.xml
 *.csv
 
+# PCBA BOM and component placement files
+!/PCBA用BOM・CPL/bom.csv
+!/PCBA用BOM・CPL/positions.csv
+
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
 
